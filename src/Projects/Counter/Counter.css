@@ -1,0 +1,21 @@
+.App{ 
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    min-height: 100vh;
+    color:aliceblue;
+    background-color:grey;
+  }
+  
+  button{ 
+    color:#ffffff;
+    background-color:olivedrab;
+    padding:5px 25px;
+    margin:10px;
+    border-radius:15px;
+    text-transform: uppercase;
+    width:300px;
+    border:1px solid #ffffff;
+  }  

@@ -1,3 +1,7 @@
-*.md text eol=lf
-.gitattributes text eol=lf
-.gitattributes text eol=lf
+*.cjs text eol=lf
+*.gitignore text eol=lf
+*.html text eol=lf
+*.json text eol=lf
+*.css text eol=lf
+*.jsx text eol=lf
+*.js text eol=lf
